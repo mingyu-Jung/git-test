@@ -3,3 +3,4 @@ hi my name is mingyu jung im very intersted in git hub im so glad to see
 git 을 써보자
 왜안돼
 마스터
+여기서도 변경되지롱
